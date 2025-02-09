@@ -1,0 +1,11 @@
+{
+	"id": "local-whisper",
+	"name": "Transcription with local whisper",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Transcribe securily audio files using local whisper installation",
+	"author": "Paolo Gianrossi",
+	"authorUrl": "https://paolog.net",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": true
+}
